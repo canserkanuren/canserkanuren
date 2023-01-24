@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Can Serkan</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
+- 🔭 I’m currently working on [an Ionic project named my-calendar, written in Angular](https://github.com/canserkanuren/my-calendar)
+
 - 📫 How to reach me **canserkan.uren@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
